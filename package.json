@@ -1,0 +1,23 @@
+{
+  "name": "markov",
+  "version": "1.0.0",
+  "description": "",
+  "main": "makeText.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cynthicrush/node-markov.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cynthicrush/node-markov/issues"
+  },
+  "homepage": "https://github.com/cynthicrush/node-markov#readme",
+  "dependencies": {
+    "axios": "^0.26.0"
+  }
+}
